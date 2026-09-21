@@ -36,7 +36,7 @@ fun HomeScreen() {
                 .padding(all = 16.dp),
             verticalArrangement = Arrangement.spacedBy(20.dp)
         ){
-            Text(text = "¡Bienvenido!")
+            Text(text = "¡Bienvenido Como esta!")
             Button(onClick = {/*Accion futura*/}) {
                 Text("Presioname")
             }
